@@ -17,3 +17,5 @@ the "Deliver" stage of your Pipeline.
 testing
 braj testing 123 123 123
 sending to master 
+
+testing GIT
